@@ -1,3 +1,3 @@
-#**SelectINV3**
+# **SelectINV3**
 
-Aplication in JAVA import and count EAN
+JAVA Application, counting EAN codes and prepare to import for ERP system.
